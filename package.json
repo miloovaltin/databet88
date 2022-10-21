@@ -1,16 +1,16 @@
 {
-"name": "databet88",
-"theme": "databet88",
-"version": "2.3.1",
-"description": "databet88 ทางเข้าเว็บไซต์คาสิโนเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"databet88",
-"databet88 เครดิตฟรี",
-"databet88 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/databet88",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "databet88",
+  "theme": "databet88",
+  "version": "2.4.0",
+  "description": "databet88 ทางเข้าเว็บไซต์คาสิโนเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "databet88",
+    "databet88 เครดิตฟรี",
+    "databet88 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/databet88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
